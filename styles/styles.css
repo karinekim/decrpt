@@ -1,4 +1,3 @@
-/* Estilos gerais */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
 
 * {
@@ -16,13 +15,13 @@ body, html, p {
 }
 
 #site{
-  width:1440px;
-  height:1024px;
+  width:1024px;
+  height:800px;
   background-color: #E8E8E8;
 } 
 
 #header {
-  width: auto;
+  width: 1024;
   height:48px;
   background-color: #E8E8E8;
   margin-top: 40px;
@@ -41,8 +40,8 @@ body, html, p {
 }
 
 #container-left {
-  width:800px;
-  height:800px;
+  width:768px;
+  height:768px;
   margin: 48px 120px 48px 48px;
   float:left;
   background-color:#E8E8E8;
@@ -125,7 +124,7 @@ body, html, p {
 
 .codificado{
   width:400px;
-  height:944px;
+  height:744px;
   flex-shrink: 0;
   margin: 32px 32px 32px 32px;
   color: var(--Gray-gray-400, #9B9797);
