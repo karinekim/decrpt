@@ -40,8 +40,8 @@ body, html, p {
 }
 
 #container-left {
-  width:768px;
-  height:768px;
+  width:600px;
+  height:600px;
   margin: 48px 120px 48px 48px;
   float:left;
   background-color:#E8E8E8;
@@ -93,7 +93,7 @@ body, html, p {
 }
 #container-right {
   width: 400px;
-  height: 944px;
+  height: 550px;
   border-radius: 32px;
   background: var(--White, #F3F5FC);
   flex-shrink: 0;
@@ -113,7 +113,7 @@ body, html, p {
 
 #high{
   width:400px;
-  height:944px;
+  height:550px;
   margin: 32px 32px 32px 32px;
   
 }
@@ -124,7 +124,7 @@ body, html, p {
 
 .codificado{
   width:400px;
-  height:744px;
+  height:550px;
   flex-shrink: 0;
   margin: 32px 32px 32px 32px;
   color: var(--Gray-gray-400, #9B9797);
